@@ -1,5 +1,8 @@
 # Terraform Filesystem Provider
 
+> [!NOTE]
+> This software is being developed for learning purposes.
+
 This Terraform provider allows you to create and manage files and directories on your local filesystem.
 
 ## Features
